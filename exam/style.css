@@ -2,7 +2,7 @@ body{
     background-color: #EEE;
     font-family: 'Montserrat', sans-serif;
     line-height: 1.5; 
-    font-size: 180%;
+    font-size: 110%;
 }
 .header{
     width: 100%;
@@ -10,7 +10,7 @@ body{
     padding-top: 20px;
     padding-bottom: 20px;
     text-align: center;
-    font-size: 40px;
+    /*font-size: 40px;*/
     box-sizing: border-box;  
     margin-bottom: 30px;
 }
